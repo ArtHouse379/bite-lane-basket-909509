@@ -2,116 +2,121 @@
     <string name="app_name">Bite Lane Basket</string>
 
     <!-- shared -->
-    <string name="price">£%1$.2f</string>
-    <string name="price_total">Total: £%1$.2f</string>
-    <string name="back_icon_description">Back</string>
-    <string name="clear_cart_icon_description">Clear cart</string>
+    <string name="price">%1$.2f GBP</string>
+    <string name="price_total">Basket: £%1$.2f</string>
+    <string name="back_icon_description">Go back</string>
+    <string name="clear_cart_icon_description">Empty basket</string>
 
     <!-- top bar titles -->
-    <string name="xoen_top_bar_home_title">Home</string>
-    <string name="xoen_top_bar_cart_title">Cart</string>
-    <string name="xoen_top_bar_checkout_title">Checkout</string>
-    <string name="xoen_top_bar_orders_title">Orders</string>
-    <string name="xoen_top_bar_settings_title">Settings</string>
-    <string name="xoen_top_bar_product_details_title">Details</string>
-    <string name="xoen_top_bar_tagline">The best choice</string>
+    <string name="xoen_top_bar_home_title">Food Lane</string>
+    <string name="xoen_top_bar_cart_title">Basket</string>
+    <string name="xoen_top_bar_checkout_title">Order</string>
+    <string name="xoen_top_bar_orders_title">Past Orders</string>
+    <string name="xoen_top_bar_settings_title">App Info</string>
+    <string name="xoen_top_bar_product_details_title">Food Details</string>
+    <string name="xoen_top_bar_tagline">Street food picks</string>
 
     <!-- bottom bar navigation item titles -->
-    <string name="xoen_bottom_bar_nav_item_home_title">Home</string>
-    <string name="xoen_bottom_bar_nav_item_cart_title">Cart</string>
-    <string name="xoen_bottom_bar_nav_item_orders_title">Orders</string>
-    <string name="xoen_bottom_bar_nav_item_settings_title">Settings</string>
+    <string name="xoen_bottom_bar_nav_item_home_title">Menu</string>
+    <string name="xoen_bottom_bar_nav_item_cart_title">Basket</string>
+    <string name="xoen_bottom_bar_nav_item_orders_title">Receipts</string>
+    <string name="xoen_bottom_bar_nav_item_settings_title">Info</string>
 
     <!-- splash screen -->
-    <string name="xoen_app_logo_description">App logo</string>
-    <string name="splash_screen_tagline">Everything you need in one place</string>
+    <string name="xoen_app_logo_description">Street food logo</string>
+    <string name="splash_screen_tagline">Street food favorites in one basket</string>
 
     <!-- onboarding screen -->
-    <string name="page_discover_title">Discover What You Need</string>
-    <string name="page_discover_description">Browse thousands of products across every category and find exactly what you\'re looking for.</string>
+    <string name="page_discover_title">Find Street Food</string>
+    <string name="page_discover_description">Browse burgers, tacos, wraps, snacks, and drinks to find your next street food favorite.</string>
 
-    <string name="page_checkout_title">Checkout Made Simple</string>
-    <string name="page_checkout_description">Secure payments and a fast, hassle-free checkout every time you shop.</string>
+    <string name="page_checkout_title">Order in Moments</string>
+    <string name="page_checkout_description">Build your basket and place a quick, simple food order whenever hunger strikes.</string>
 
-    <string name="page_delivery_title">Fast, Reliable Delivery</string>
-    <string name="page_delivery_description">Track your order in real time and get updates every step of the way.</string>
+    <string name="page_delivery_title">Fresh Food Updates</string>
+    <string name="page_delivery_description">Follow your street food order and stay updated from the stall to your door.</string>
 
-    <string name="next_button_title">Next</string>
-    <string name="start_button_title">Start</string>
-    <string name="skip_button_title">Skip</string>
+    <string name="next_button_title">Continue</string>
+    <string name="start_button_title">Browse</string>
+    <string name="skip_button_title">Not now</string>
 
     <!-- %1$s – button label (Next/Start), %2$d and %3$d – current page number and total number of pages. -->
-    <string name="onboarding_button_progress">%1$s · %2$d/%3$d</string>
+    <string name="onboarding_button_progress">%1$s · %2$d of %3$d</string>
 
     <!-- home screen -->
-    <string name="products_state_empty_primary_text">No products available</string>
-    <string name="home_featured_title">Featured</string>
-    <string name="home_categories_title">Categories</string>
-    <string name="home_products_title">Products</string>
-    <string name="home_products_count">%1$d items</string>
-    <string name="add_to_cart_icon_description">Add to cart</string>
+    <string name="products_state_empty_primary_text">No street food available</string>
+    <string name="home_featured_title">Popular Picks</string>
+    <string name="home_categories_title">Food Types</string>
+    <string name="home_products_title">Street Menu</string>
+    <string name="home_products_count">%1$d dishes</string>
+    <string name="add_to_cart_icon_description">Add to basket</string>
 
     <!-- product categories -->
-    <string name="xoen_category_all">All</string>
+    <string name="xoen_category_all">Full Menu</string>
+    <string name="product_category_burgers_title">Burgers</string>
+    <string name="product_category_tacos_title">Tacos</string>
+    <string name="product_category_wraps_title">Wraps</string>
+    <string name="product_category_snacks_title">Snacks</string>
+    <string name="product_category_drinks_title">Drinks</string>
 
     <!-- product details screen -->
-    <string name="product_details_state_empty_primary_text">No information available for this product</string>
-    <string name="product_image_description">Product image</string>
-    <string name="button_add_to_cart_label">Add to Cart</string>
-    <string name="product_details_description_title">Description</string>
-    <string name="product_details_snackbar_added_to_cart">Added to cart</string>
+    <string name="product_details_state_empty_primary_text">No details available for this dish</string>
+    <string name="product_image_description">Food photo</string>
+    <string name="button_add_to_cart_label">Add to Basket</string>
+    <string name="product_details_description_title">What\'s Inside</string>
+    <string name="product_details_snackbar_added_to_cart">Added to basket</string>
 
     <!-- cart screen -->
-    <string name="cart_state_empty_primary_text">Nothing in your cart yet</string>
-    <string name="button_place_order_label">Place Order • £%1$.2f</string>
-    <string name="increase_quantity_icon_description">Increase quantity</string>
-    <string name="decrease_quantity_icon_description">Decrease quantity</string>
-    <string name="delete_item_icon_description">Delete item</string>
-    <string name="cart_items_count">Items: %1$d</string>
-    <string name="cart_item_quantity_multiplier">%1$s × %2$d</string>
-    <string name="cart_summary_subtotal_label">Subtotal</string>
-    <string name="cart_summary_delivery_label">Delivery</string>
-    <string name="cart_summary_delivery_free">Free</string>
-    <string name="cart_summary_total_label">Total</string>
+    <string name="cart_state_empty_primary_text">Your food basket is empty</string>
+    <string name="button_place_order_label">Order Food • £%1$.2f</string>
+    <string name="increase_quantity_icon_description">Add another</string>
+    <string name="decrease_quantity_icon_description">Remove one</string>
+    <string name="delete_item_icon_description">Remove dish</string>
+    <string name="cart_items_count">Dishes: %1$d</string>
+    <string name="cart_item_quantity_multiplier">%2$d × %1$s</string>
+    <string name="cart_summary_subtotal_label">Food subtotal</string>
+    <string name="cart_summary_delivery_label">Food delivery</string>
+    <string name="cart_summary_delivery_free">Included</string>
+    <string name="cart_summary_total_label">Order total</string>
 
     <!-- orders screen -->
-    <string name="orders_state_empty_primary_text">You have no orders yet</string>
-    <string name="order_number">Order #%1$s</string>
-    <string name="order_customer">Customer: %1$s %2$s</string>
-    <string name="order_customer_email">Email: %1$s</string>
-    <string name="order_date_pattern">dd MMM yyyy, HH:mm</string>
-    <string name="order_status_confirmed">Confirmed</string>
-    <string name="order_total_label">Total</string>
+    <string name="orders_state_empty_primary_text">No street food orders yet</string>
+    <string name="order_number">Food order %1$s</string>
+    <string name="order_customer">Ordered by %1$s %2$s</string>
+    <string name="order_customer_email">Receipt: %1$s</string>
+    <string name="order_date_pattern">MMM dd yyyy, HH:mm</string>
+    <string name="order_status_confirmed">Being prepared</string>
+    <string name="order_total_label">Order value</string>
 
     <!-- checkout screen -->
-    <string name="checkout_headline">Almost there</string>
-    <string name="checkout_invitation">Leave your name and email — we\'ll confirm the order and keep you posted on delivery.</string>
-    <string name="checkout_text_field_first_name">First Name</string>
-    <string name="checkout_text_field_last_name">Last Name</string>
-    <string name="checkout_text_field_email">Email</string>
-    <string name="checkout_email_supporting_text">The order confirmation goes to this address</string>
-    <string name="checkout_email_error_text">Enter a valid email, for example name@example.com</string>
-    <string name="button_confirm_order_label">Confirm Order</string>
+    <string name="checkout_headline">Ready to order</string>
+    <string name="checkout_invitation">Share your name and email — we\'ll confirm your food order and send delivery updates.</string>
+    <string name="checkout_text_field_first_name">Given Name</string>
+    <string name="checkout_text_field_last_name">Family Name</string>
+    <string name="checkout_text_field_email">Receipt Email</string>
+    <string name="checkout_email_supporting_text">Your food receipt is sent to this address</string>
+    <string name="checkout_email_error_text">Use a valid email such as food@example.com</string>
+    <string name="button_confirm_order_label">Send Order</string>
 
     <!-- checkout dialog -->
-    <string name="checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
-    <string name="checkout_dialog_confirm">Done</string>
+    <string name="checkout_dialog_title">Your Food Is Ordered!</string>
+    <string name="checkout_success_message">Your street food order is confirmed. Sit tight; the kitchen will share an update shortly.</string>
+    <string name="checkout_dialog_confirm">Great</string>
 
     <!-- settings screen -->
-    <string name="settings_screen_app_label">Application</string>
-    <string name="settings_screen_version_label">Version</string>
+    <string name="settings_screen_app_label">Food App</string>
+    <string name="settings_screen_version_label">App Release</string>
     <string name="xoen_app_version">1.0.0</string>
 
-    <string name="settings_screen_company_label">Company</string>
+    <string name="settings_screen_company_label">Food Retailer</string>
     <string name="xoen_company_name">SOLARA ENTERPRISES LTD</string>
 
-    <string name="settings_screen_customer_support_label">Customer Support</string>
+    <string name="settings_screen_customer_support_label">Order Help</string>
     <string name="xoen_customer_support_link">https://specialty-food-hub.top</string>
 
     <!-- clear cart dialog -->
-    <string name="clear_cart_dialog_title">Clear cart?</string>
-    <string name="clear_card_dialog_text">Are you sure you want to remove all items from your cart?</string>
-    <string name="button_confirm_clear_cart">Confirm</string>
-    <string name="button_cancel_clear_cart">Cancel</string>
+    <string name="clear_cart_dialog_title">Empty basket?</string>
+    <string name="clear_card_dialog_text">Remove every dish and drink from your food basket?</string>
+    <string name="button_confirm_clear_cart">Empty</string>
+    <string name="button_cancel_clear_cart">Keep food</string>
 </resources>
